@@ -1,1 +1,1 @@
-This folder contains Lanxi Wang's project modules.
+This folder contains Lanxi Wang's project modules
